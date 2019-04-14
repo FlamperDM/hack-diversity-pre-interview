@@ -19,7 +19,7 @@ public class ConversationMetricsCalculator {
     // implement me!
 
     long userFirstTime = 0;
-    long average = 0;
+    double average = 0;
     int countMsgAnswered = 0;
 
     boolean firstMsg = true;
